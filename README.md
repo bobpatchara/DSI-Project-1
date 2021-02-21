@@ -1,11 +1,10 @@
 # DSI-Project-1
 
  - [Problem Statement](#Problem-Statement)
- - [Executive Summary](#Executive-Summary)
+ - [Project Objectives](#Executive-Summary)
  - [Data Dictionary](#Data-Dictionary)
- - [External Research](#External-Research)
+ - [Data Analysis](#Data Analysis)
  - [Conclusions & Recommendations](#Conclusions-&-Recommendations)
- - [Data Sources](#Data-Sources)
 
 ## Problem Statement
 I am working as a data analyst at Niche company which is a market leader in connecting colleges and schools with students and families and helps million of students and families find and enroll in the right school for them. My project is "to help Niche company gaining more brand awareness by collaborating a new project “University Scholarship” with Global Standardized Test Organization like SAT or ACT, to provide an examination fee and give a free education consulting to scholarship students"
