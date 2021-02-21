@@ -1,4 +1,4 @@
-# DSI-Project-1
+# DSI-Project-1: SAT&ACT 2017-2019 Data Analysis 
 
  - [Problem Statement](#Problem-Statement)
  - [Project Objectives](#Executive-Summary)
