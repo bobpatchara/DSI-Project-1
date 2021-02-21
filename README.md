@@ -3,7 +3,7 @@
  - [Problem Statement](#Problem-Statement)
  - [Project Objectives](#Executive-Summary)
  - [Data Dictionary](#Data-Dictionary)
- - [Data Analysis](#Data Analysis)
+ - [Data Analysis](#Data-Analysis)
  - [Conclusions & Recommendations](#Conclusions-&-Recommendations)
 
 ## Problem Statement
