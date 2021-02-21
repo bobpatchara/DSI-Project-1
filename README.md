@@ -2,7 +2,6 @@
 
  - [Problem Statement](#Problem-Statement)
  - [Executive Summary](#Executive-Summary)
- - [SAT&ACT 2017-2019 Data Analysis.ipynb Contents](#SAT&ACT 2017-2019 Data Analysis.ipynb-Contents)
  - [Data Dictionary](#Data-Dictionary)
  - [External Research](#External-Research)
  - [Conclusions & Recommendations](#Conclusions-&-Recommendations)
