@@ -61,7 +61,6 @@ This holds across years too, as most states have similar profiles in 2019 as the
 This is simply due to higher participation on SAT > lower participation on ACT > higher ACT scores. So, positive correlation between SAT participation and ACT scores.
 
 ## Conclusions & Recommendations 
-SAT has a large group of very low-end participation rates (<10%), and a cluster of states with participation in the 50–75% range, and then a group of states with 100% participation. The ACT, by contrast, has almost no states with lower than 10% participation, has a cluster of states in the 15–35% range, only a small number of states in the mid to high range, and then a large group of states with at or near 100% participation. In this way the three distributions almost mirror each other.
 
 We need to collaborate with “College Board/ SAT” which has a very strong presence internationally because of these reasons;
 - Upward trends of SAT Participation rate year-on-year (2017 - 2019 : 3.5% per year)
