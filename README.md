@@ -66,7 +66,8 @@ We need to collaborate with “College Board/ SAT” which has a very strong pre
 - Upward trends of SAT Participation rate year-on-year (2017 - 2019 : 3.5% per year)
 - SAT has a large group of very low-end participation rates (<10%)
 - ACT Participation slightly drops year-to-year (2017 - 2019 : -3.5% per year)
-and so College Board can use this as a strength and dominate more over ACT.Thus, Niche Marketing team and College Board should promote campaign of ‘University Scholarship Project’ at top 5 lowest participation states, including: North Dakota, Mississippi, Lowa, Wyoming, and South Dakota. 
+and so College Board can use this as a strength and dominate more over ACT.
+Thus, Niche Marketing team and College Board should promote campaign of ‘University Scholarship Project’ at top 5 lowest participation states, including: North Dakota, Mississippi, Lowa, Wyoming, and South Dakota. 
 
 
 
